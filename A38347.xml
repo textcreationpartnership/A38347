@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the Court at White-Hall, August the 14, 1663 present : the Kings Most excellent Majesty, Lord Chancellour, Lord Treasurer, Lord Privy-Seal ... [et al.]</title>
+            <author>England and Wales. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38347</idno>
+            <idno type="STC">Wing E2888</idno>
+            <idno type="STC">ESTC R3619</idno>
+            <idno type="EEBO-CITATION">12892205</idno>
+            <idno type="OCLC">ocm 12892205</idno>
+            <idno type="VID">95131</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95131)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 690:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the Court at White-Hall, August the 14, 1663 present : the Kings Most excellent Majesty, Lord Chancellour, Lord Treasurer, Lord Privy-Seal ... [et al.]</title>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerns the case of William Christian of the Isle of Man, put to death by local magistrates in 1551, in spite of a general pardon from the King.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian, William, fl. 1651.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:95131:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and Tudor rose on one side and the Scottish unicorn and thistle on the other</figDesc>
+               </figure>
+            </head>
+            <opener>
+               <dateline>At the Court at WHITE-HALL, <date>
+                     <hi>Auguſt</hi> the 14, 1663.</date>
+               </dateline>
+            </opener>
+            <head>Preſent
+<list>
+                  <item>
+                     <hi>The Kings most Excellent Majeſty,</hi>
+                  </item>
+                  <item>Lord Chancellour</item>
+                  <item>Lord Treaſurer</item>
+                  <item>Lord Privy-Seal</item>
+                  <item>Duke of Buckingham</item>
+                  <item>Duke of Albemarle</item>
+                  <item>Lord Chamberlain</item>
+                  <item>Earl of Berkſhire</item>
+                  <item>Earl of St. Alban</item>
+                  <item>Earl of Sandwich</item>
+                  <item>Earl of Angleſey</item>
+                  <item>Earl of Bathe</item>
+                  <item>Earl of Middleton</item>
+                  <item>Earl of Carbery</item>
+                  <item>Lord Biſhop of London</item>
+                  <item>Lord Wentworth</item>
+                  <item>Lord Berkeley</item>
+                  <item>Lord Aſhley</item>
+                  <item>Sir William Compton</item>
+                  <item>Mr. Treaſurer</item>
+                  <item>Mr. Vice-Chamberlain</item>
+                  <item>Mr. Secretary Morice</item>
+                  <item>Mr. Secretary Bennet.</item>
+               </list>
+            </head>
+            <div type="license">
+               <p>
+                  <seg rend="decorInit">T</seg>O the end the World may the better take notice of His Ma<g ref="char:EOLhyphen"/>jeſties Royal Intention to ob<g ref="char:EOLhyphen"/>ſerve the Act of Indempnity and General Pardon inviola<g ref="char:EOLhyphen"/>bly, for the Publique good and Satisfaction of
+<pb n="2" facs="tcp:95131:2"/> all His Subjects, It was this day Ordered, That a Copy of the Order of this Board of the 5<hi rend="sup">th</hi> in<g ref="char:EOLhyphen"/>ſtant, touching the illegal Proceedings in the <hi>Iſle of Man</hi> againſt <hi>William Chriſtian,</hi> and putting him to death, contrary to the ſaid Act of Gene<g ref="char:EOLhyphen"/>ral Pardon, be ſent unto His Majeſties Printer; who is commanded forthwith to Print the ſame in the Engliſh Letter, <hi>in Folio,</hi> in ſuch manner as Acts of Parliament are uſually printed, and His Majeſties Arms prefixed.</p>
+               <closer>
+                  <signed>Richard Browne.</signed>
+               </closer>
+            </div>
+            <div type="Parliamentary_order">
+               <opener>
+                  <dateline>At the Court at Whitehall, <date>the 5<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1663.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">G</seg>Eorge Chriſtian,</hi> Son and Heir of <hi>William Chriſtian</hi> deceaſed, ha<g ref="char:EOLhyphen"/>ving exhibited his Complaint to His Majeſty in Council, That his Father be<g ref="char:EOLhyphen"/>ing at a Houſe of his in His Maieſties <hi>Iſle of Man,</hi> was impri<g ref="char:EOLhyphen"/>ſoned by certain perſons of that <hi>Iſland,</hi> pre<g ref="char:EOLhyphen"/>tending themſelves to be a Court of Iu<g ref="char:EOLhyphen"/>ſtice; That he was by them accuſed of High Treaſon, pretended to be committed againſt the Counteſs Dowager of <hi>Derby,</hi> in the year <hi>1651.</hi> And that they thereupon proceeded to Iudgement, and cauſed him to be put to death, notwithſtanding the Act of General Pardon and Indempni<g ref="char:EOLhyphen"/>ty
+<pb n="3" facs="tcp:95131:2"/> (whereof he claimed the benefit) and his Appeal to His Majeſty; and humbly imploring His Majeſties Princely Com<g ref="char:EOLhyphen"/>paſſion towards the diſtreſſed Widow, and ſeven Fatherleſs Children of the de<g ref="char:EOLhyphen"/>ceaſed: His Majeſty was graciouſly plea<g ref="char:EOLhyphen"/>ſed, with the Advice of His Council, to Order, That <hi>Thomas Norris</hi> and <hi>Hugh Can<g ref="char:EOLhyphen"/>nell,</hi> the two Iudges (by them in that <hi>Iſland</hi> called Deemſters) and <hi>Richard Stevenſon, Robert Colcott,</hi> and <hi>Richard Tildeſley,</hi> three of the Members of the pretended Court of Iuſtice, and <hi>Henry Nowell</hi> Deputy Gover<g ref="char:EOLhyphen"/>nour of the ſaid <hi>Iſland,</hi> ſhould be forthwith ſent for, and brought up by a Serjeant at Arms, here, before His Majeſty in Coun<g ref="char:EOLhyphen"/>cil, to appear and anſwer to ſuch accuſa<g ref="char:EOLhyphen"/>tions as ſhould be exhibited againſt them; which ſaid ſix perſons being accordingly brought hither, &amp; the fifteenth day of <hi>July</hi> laſt appointed for a full hearing of the whole buſineſs, the Earl of <hi>Derby</hi> then al<g ref="char:EOLhyphen"/>ſo ſummoned to appear, and the Lord Chief Iuſtice of the Kings Bench, and the Lord Chief Baron of His Majeſties Exchequer, with the Kings Counſel Learned in the Laws required to be pre<g ref="char:EOLhyphen"/>ſent, and all parties called in, with their Counſel and Witneſſes; After full hear<g ref="char:EOLhyphen"/>ing of the whole matter on both ſides, and the parties-withdrawn, the ſaid Iudges being deſired to deliver their Opinion, did (in preſence of the Kings Counſel Learn<g ref="char:EOLhyphen"/>ed in the Laws) declare, That the Act of
+<pb n="4" facs="tcp:95131:3"/> General Pardon and Indempnity did, and ought to be underſtood to extend into the <hi>Iſle of Man,</hi> as well as into any other of His Majeſties Dominions, and Plan<g ref="char:EOLhyphen"/>tations beyond the Seas; And that be<g ref="char:EOLhyphen"/>ing a Publique general Act of Parlia<g ref="char:EOLhyphen"/>ment, it ought to have been taken notice of by the Iudges in the <hi>Iſle of Man,</hi> al<g ref="char:EOLhyphen"/>though it had not been pleaded, and al<g ref="char:EOLhyphen"/>though there were no Proclamation made thereof: His Majeſty being therefore deeply ſenſible of this great Violation of His Act of General Pardon, whereof His Majeſty hath always been very tender, and doth expect and require, that all His Subjects in all His Dominions and Plantations ſhall enjoy the full benefit and advantage of the ſame; And having this day taken this buſineſs into further Conſideration, and all Parties called in and heard, did, by and with the Advice of the Council, Order, and it is hereby Or<g ref="char:EOLhyphen"/>dered, That all perſons any way con<g ref="char:EOLhyphen"/>cerned in the ſeiſure of the Eſtate of the ſaid <hi>William Chriſtian</hi> deceaſed, or inſtru<g ref="char:EOLhyphen"/>mental in the Ejection of the Widow and Children out of their Houſes and Fortune, do take care, that intire Reſti<g ref="char:EOLhyphen"/>tution be made of all the ſaid Eſtate, as well real as perſonal, as alſo all Da<g ref="char:EOLhyphen"/>mages ſuſtained, with full Satisfaction for all Profits by them received ſince the ſaid Eſtate hath been in their hands. And that, whereas the ſaid <hi>William
+<pb n="5" facs="tcp:95131:3"/> Chriſtian</hi> deceaſed, was one of the Two lives remaining in an Eſtate in <hi>Lanca<g ref="char:EOLhyphen"/>ſhire,</hi> That the detriment accrewing by the untimely death of the ſaid <hi>William Chriſtian,</hi> therein, or in like caſes, ſhall be eſtimated, and in like manner fully re<g ref="char:EOLhyphen"/>paired. That in regard of the great Trouble and Charges the Complay<g ref="char:EOLhyphen"/>nants have been at in purſuit of this buſineſs, Ordered, That they do exhibit to this Board a true Accompt upon Oath of all Expences and Damages by them ſuſtained in the Iourneys of them<g ref="char:EOLhyphen"/>ſelves and Witneſſes, and of all other their Charges in the following of this buſineſs.</p>
+               <p>And whereas <hi>Ewan Curghey, Samuel Ratcliffe,</hi> and <hi>John Ceſar,</hi> were by the ſame Court of Iuſtice impriſoned, and had their Eſtates ſeiſed and con<g ref="char:EOLhyphen"/>fiſcated, without any legal Trial, It is Ordered, That the ſaid <hi>Ewan Curghey, Samuel Ratcliffe,</hi> and <hi>John Ceſar</hi> be like<g ref="char:EOLhyphen"/>wiſe reſtored to all their Eſtates real and perſonal, and fully repaired in all the Charges and Expences which they have been at ſince their firſt Impri<g ref="char:EOLhyphen"/>ſonment, as well in the Proſecution of this buſineſs, as in their Iourney thi<g ref="char:EOLhyphen"/>ther, or any other way whatſoever thereunto relating; The which Satiſ<g ref="char:EOLhyphen"/>faction, Expences, and all other Sums of Money to be raiſed by vertue of this
+<pb n="6" facs="tcp:95131:4"/> Order, are to be furniſhed by the Deemſters, Members, and Aſſiſtants of the ſaid Court of Iuſtice, who are hereby Ordered to raiſe all ſuch the ſaid Sums, and thereof to make due Payment, and give full Satisfaction unto the Parties reſpectively hereby ap<g ref="char:EOLhyphen"/>pointed to receive it.</p>
+               <p>And to the end the guilt of that Bloud, which hath been unjuſtly ſpilt, may in ſome ſort be expiated, and His Majeſty receive ſome kind of Satiſ<g ref="char:EOLhyphen"/>faction for the untimely loſs of a Sub<g ref="char:EOLhyphen"/>ject, It is Ordered, That the ſaid <hi>Tho<g ref="char:EOLhyphen"/>mas Norris,</hi> and <hi>Hugh Cannell,</hi> who De<g ref="char:EOLhyphen"/>creed this violent death, be committed, and remain Priſoners in the Kings Bench, to be proceeded againſt in the Ordinary courſe of Iuſtice, ſo to re<g ref="char:EOLhyphen"/>ceive condign puniſhment according to the merit of ſo heinous a fact.</p>
+               <p>That <hi>Richard Stevenſon, Robert Coll<g ref="char:EOLhyphen"/>cott,</hi> and <hi>Richard Tildeſley</hi> be diſcharged from farther Reſtraint, giving good Security to appear at this Board whenſoever ſummoned, and not depart this City until full Satisfaction ſhall be given, and all Orders of this Board whatſoever relating to this buſineſs fully executed in the Iſland.</p>
+               <p>And in regard that upon the Exa<g ref="char:EOLhyphen"/>mination
+<pb n="7" facs="tcp:95131:4"/> of this buſineſs, it doth ap<g ref="char:EOLhyphen"/>pear, That <hi>Edward Chriſtian,</hi> being one of the Deemſters or Iudges in the <hi>Iſle of Man,</hi> did, when the Court refuſed to admit of the deceaſed <hi>William Chriſtians</hi> Plea of the Art of Indempnity, make his Proteſtation againſt their Illegal Proceedings, and did withdraw him<g ref="char:EOLhyphen"/>ſelf, and came into <hi>England</hi> to ſollicite His Majeſty, and implore His Iuſtice: It is Ordered, That the Earl of <hi>Derby</hi> do forthwith by Commiſſion in due and accuſtomed manner, reſtore, conſtitute and appoint the ſaid <hi>Edward Chriſtian</hi> one of the Deemſters or Iudges of the ſaid <hi>Iſland,</hi> ſo to remain and con<g ref="char:EOLhyphen"/>tinue in the due execution of the ſaid place.</p>
+               <p>And laſtly, It is Ordered, That the ſaid <hi>Henry Nowell</hi> Deputy Governour, (whoſe fault hath been the not com<g ref="char:EOLhyphen"/>plying with, and yielding due obedi<g ref="char:EOLhyphen"/>ence to the Orders of His Majeſty and this Board ſent into the <hi>Iſland</hi>) giving good Security to appear at this Board whenſoever ſummoned, be forthwith diſ<g ref="char:EOLhyphen"/>charged from all farther Reſtraint, and permitted to return into the <hi>Iſland;</hi> and he is hereby ſtrictly Commanded to im<g ref="char:EOLhyphen"/>ploy the Power and Authority, which, by virtue of his Commiſſion he hath in that <hi>Iſland,</hi> in performance of and obe<g ref="char:EOLhyphen"/>dience to all Commands and Orders
+<pb n="8" facs="tcp:95131:5"/> of His Majeſty and this Board in this whole buſineſs, or any way relating thereunto.</p>
+               <closer>
+                  <signed>Signed by
+<list>
+                        <item>
+                           <hi>Lord Chancellour</hi>
+                        </item>
+                        <item>
+                           <hi>Lord Treaſurer</hi>
+                        </item>
+                        <item>
+                           <hi>Lord Privy-Seal</hi>
+                        </item>
+                        <item>
+                           <hi>Duke of Albemarle</hi>
+                        </item>
+                        <item>
+                           <hi>Lord Chamberlain</hi>
+                        </item>
+                        <item>
+                           <hi>Earl of Berkſhire</hi>
+                        </item>
+                        <item>
+                           <hi>Earl of St. Alban</hi>
+                        </item>
+                        <item>
+                           <hi>Earl of Angleſey</hi>
+                        </item>
+                        <item>
+                           <hi>Earl of Sandwich</hi>
+                        </item>
+                        <item>
+                           <hi>Earl of Bathe</hi>
+                        </item>
+                        <item>
+                           <hi>Earl of Middleton</hi>
+                        </item>
+                        <item>
+                           <hi>Earl of Carbery</hi>
+                        </item>
+                        <item>
+                           <hi>Lord Biſhop of London</hi>
+                        </item>
+                        <item>
+                           <hi>Lord Wentworth</hi>
+                        </item>
+                        <item>
+                           <hi>Lord Berkeley</hi>
+                        </item>
+                        <item>
+                           <hi>Lord Aſhley</hi>
+                        </item>
+                        <item>
+                           <hi>Sir William Compton</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Treaſurer</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Vice-Chamberlain</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Secretary Morice</hi>
+                        </item>
+                        <item>
+                           <hi>Mr. Secretary Bennet.</hi>
+                        </item>
+                     </list>
+                  </signed>
+                  <signed>
+                     <hi>Richard Browne</hi> Clerke of the Council.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Bill</hi> and <hi>Chriſtopher Bar<g ref="char:EOLhyphen"/>ker,</hi> Printers to the KINGS moſt Excellent Majeſty, 1663.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
